@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+	background: yellow;
+}
+div{
+	position : absolute;
+	top : 50%;
+	left : 50%;
+	transform:translate(-50%,-50%);
+}
+input{
+	height : 30px;
+}
+span{
+	font-size: 15px;
+	font-weight: bold;
+}
